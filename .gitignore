@@ -1,3 +1,5 @@
 .idea
 auteur
 node_modules
+package-lock.json
+config.json
